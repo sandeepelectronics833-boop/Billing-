@@ -7,8 +7,8 @@
    ===================================================================== */
 const SHOP_CONFIG = {
   // Supabase → Project Settings → API
-  supabaseUrl: "https://YOUR-PROJECT-ID.supabase.co",
-  supabaseAnonKey: "PASTE_YOUR_PUBLISHABLE_OR_ANON_KEY",
+  supabaseUrl: "https://eawnsdtyfoezxrbbaoji.supabase.co",
+  supabaseAnonKey: "sb_publishable_X9i8ip8DUCXvGPfBxjViOw_NkQhEd_O",
 
   // Shown on the sign-in screen only until the shop's own name loads.
   shopName: "My Shop",
